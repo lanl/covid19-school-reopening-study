@@ -22,16 +22,18 @@ These files are made available for both the fewer and more open workplaces scena
 
 ### Scenarios
 
-* **Pre-Pandemic Behavior Cases** - Total cases for no mitigations, all businesses completely open (i.e., 100% enrollment with no social distancing in place).
-* **Baseline Cases** - Total cases for all students physically in school with some social distancing (i.e., 100% enrollment).
-* **Offsite Cases** - Total cases for no students physically in school.
-* **40% POL SD 2Days Cases** - Total cases for two non-overlapping cohorts of students - 40% of the students attend for two days/week (Mon/Tue) and the other 40% attend for two days (Thu/Fri). Wednesday off for disinfection.
-* **40% POL SD Week Cases** - Total cases for two non-overlapping cohorts of students - 40% of the students attend one week and the other 40% attend the next week.
-* **80% OL SD Cases** - Total cases for all enrolled students physically in school.
-* **Offsite Cases Averted** - Total cases averted when compared to the baseline scenario for no students physically in school.
-* **40% POL SD 2Days Cases Averted** - Total cases averted when compared to the baseline scenario for two non-overlapping cohorts of students - 40% of the students attend for two days/week (Mon/Tue) and the other 40% attend for two days (Thu/Fri). Wednesday off for disinfection.
-* **40% POL SD Week Cases Averted** - Total cases averted when compared to the baseline scenario for two non-overlapping cohorts of students - 40% of the students attend one week and the other 40% attend the next week.
-* **80% OL SD Cases Averted** - Total cases averted when compared to the baseline scenario for all enrolled students physically in school.
+| **Scenario Name** | **Scenario Description** |
+| ----------------- | ------------------------ |
+| **Pre-Pandemic Behavior Cases** - Total cases for no mitigations, all businesses completely open (i.e., 100% enrollment with no social distancing in place). |
+| **Baseline Cases** | Total cases for all students physically in school with some social distancing (i.e., 100% enrollment). |
+| **Offsite Cases** | Total cases for no students physically in school. |
+| **40% POL SD 2Days Cases** | Total cases for two non-overlapping cohorts of students - 40% of the students attend for two days/week (Mon/Tue) and the other 40% attend for two days (Thu/Fri). Wednesday off for disinfection. |
+| **40% POL SD Week Cases** | Total cases for two non-overlapping cohorts of students - 40% of the students attend one week and the other 40% attend the next week. |
+| **80% OL SD Cases** | Total cases for all enrolled students physically in school. |
+| **Offsite Cases Averted** | Total cases averted when compared to the baseline scenario for no students physically in school. |
+| **40% POL SD 2Days Cases Averted** | Total cases averted when compared to the baseline scenario for two non-overlapping cohorts of students - 40% of the students attend for two days/week (Mon/Tue) and the other 40% attend for two days (Thu/Fri). Wednesday off for disinfection. |
+| **40% POL SD Week Cases Averted** | Total cases averted when compared to the baseline scenario for two non-overlapping cohorts of students - 40% of the students attend one week and the other 40% attend the next week. |
+| **80% OL SD Cases Averted** | Total cases averted when compared to the baseline scenario for all enrolled students physically in school. |
 
 ### `CAR and Cases per 100K.xlsx`
 
