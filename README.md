@@ -1,5 +1,25 @@
 # COVID-19 School Reopening Study Output
 
+## Authors
+
+* Timothy C. Germann
+* Manhong Z. Smith
+* Lori Dauelsberg
+* Geoffrey Fairchild
+* Terece L. Turton
+* Morgan E. Gorris
+* Chrysm Watson Ross
+* James P. Ahrens
+* Daniel D. Hemphill
+* Carrie Manore
+* Sara Y. Del Valle
+
+## Description
+
+This repository contains spreadsheets, maps, and movies that summarize the output of our COVID-19 school reopening study using EpiCast.
+
+The paper is currently under review, and a link and citation will be provided once it is published.
+
 ## Spreadsheets
 
 ### Fewer vs. More Spreadsheets
@@ -58,20 +78,6 @@ This directory contains maps and movies created from the scenarios described abo
 
 * Movies show new cases per day per 100K by county for each scenario.
 * Maps show the cumulative number of cases per 100K by county over the duration of our simulation for each scenario.
-
-## Authors
-
-* Timothy C. Germann
-* Manhong Z. Smith
-* Lori Dauelsberg
-* Geoffrey Fairchild
-* Terece L. Turton
-* Morgan E. Gorris
-* Chrysm Watson Ross
-* James P. Ahrens
-* Daniel D. Hemphill
-* Carrie Manore
-* Sara Y. Del Valle
 
 ## LA-UR
 
